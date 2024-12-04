@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[46],{7676:e=>{e.exports=JSON.parse('[{"type":"link","href":"/api/NeoHotbar","label":"\u200bNeo\u200bHotbar"}]')}}]);
