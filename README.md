@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://avafe.me/NeoHotbar">
+  <a href="https://loneka.com/NeoHotbar">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="/gh-assets/NeoHotbarLogoLight.svg"></source>
       <source media="(prefers-color-scheme: light)" srcset="/gh-assets/NeoHotbarLogoDark.svg"></source>
@@ -25,9 +25,9 @@
 
 ---
 
-## [📦Installation](https://avafe.me/NeoHotbar/docs/intro/#installation)
+## [📦Installation](https://loneka.com/NeoHotbar/docs/intro/#installation)
 
-## [📄 Documentation](https://avafe.me/NeoHotbar/)
+## [📄 Documentation](https://loneka.com/NeoHotbar/)
 
 ## [🎮 Live Demo](https://roblox.com/games/12259231211)
 
