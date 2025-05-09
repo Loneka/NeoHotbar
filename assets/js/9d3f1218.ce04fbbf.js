@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[465],{4410:e=>{e.exports=JSON.parse('{"sourceUrl":"https://github.com/loneka/neohotbar/blob/master","baseUrl":"/neohotbar/","classOrder":[],"apiCategories":[]}')}}]);
