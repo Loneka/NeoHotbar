@@ -1,7 +1,8 @@
 [docusaurus]
 title = "NeoHotbar"
 tagline = "A modern, flexible hotbar for Roblox"
-url = "https://loneka.com"
+url = "https://loneka.com/"
+baseUrl = "/neohotbar"
 favicon = "/img/favicon.svg"
 
 [home]
